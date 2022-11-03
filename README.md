@@ -1,6 +1,6 @@
 # KETI_all
 
-Pull [Strong baseline](https://duckduckgo.com)\
+Pull [Strong baseline](https://github.com/valencebond/Rethinking_of_PAR)\
 Download [weights](https://unistackr0-my.sharepoint.com/:u:/g/personal/macarize_unist_ac_kr/ERNUkicf8pJGhbGvcDL6usYB2uL3E5r5bHaq21KRjRLmrQ?e=ghyWBF)
 
 [Files]\
